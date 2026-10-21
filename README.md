@@ -1,2 +1,2 @@
 # Proyecto-MR-CLUB
-Pagina registro se asociados en la empresa MR CLUB
+Pagina registro de asociados en la empresa MR CLUB
